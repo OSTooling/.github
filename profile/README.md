@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This organisation is not affiliated with Microsoft Corp. or any of its subsidiaries. This organisation holds various community made tools related to the Windows Operating System.
 <!--
 
 **Here are some ideas to get you started:**
